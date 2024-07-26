@@ -8,6 +8,7 @@
 ## Tools
 
 - [sxhkd](https://github.com/baskerville/sxhkd): Hotkey daemon for X
+- [xcolor](https://github.com/Soft/xcolor): Color picker written in rust
 
 ## Window Managers
 
