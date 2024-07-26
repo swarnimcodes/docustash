@@ -23,3 +23,5 @@ extra/libpulse 17.0-3 [installed]
     usr/bin/pactl
     usr/share/bash-completion/completions/pactl
 ```
+
+Hence we get to know that the `libpulse` package provides the `pactl` binary.
